@@ -1,1 +1,0 @@
-print("STRONA GŁÓWNA")
